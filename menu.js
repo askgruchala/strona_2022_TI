@@ -1,7 +1,7 @@
-let adres='http://127.0.0.1:5500/';
+//let adres='http://127.0.0.1:5500/';
             
 
-//let adres='http://gorka.hostng.pl/2pti/';
+let adres='https://askgruchala.github.io/strona_2022_TI/';
 
 document.write(
 //div główny - koniec w stopce
